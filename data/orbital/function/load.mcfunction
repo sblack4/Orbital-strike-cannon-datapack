@@ -1,2 +1,2 @@
 tellraw @a [{text:"Orbital Strike DataPack by ",color:gold},{text:"Stepan1411",color:red,click_event:{action:"open_url",url:"https://modrinth.com/user/Stepan1411_Studio"}},{text:" & "},{text:"Shanahan",color:red,click_event:{action:"open_url",url:"https://modrinth.com/user/Shanahan_7"}}]
-gamerule commandModificationBlockLimit 999999999
+gamerule max_command_sequence_length 999999999
